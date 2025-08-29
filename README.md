@@ -4,7 +4,7 @@ I'm Findra, a **Full-Stack Developer** and **Open-Source Contributor**.
 
 I am passionate about writing clean code, designing robust system architectures, and contributing to the open-source community.
 
-I wrote a [blog](https://findrakecil.dev/blog) about web development and Linux, particularly about Debian and GNOME desktop.
+I wrote a [blog](https://findrakecil.dev/blog) about Debian, web development, and personal notes.
 
 ## **Featured Projects**
 
