@@ -1,6 +1,6 @@
 ## Assalaamu 'alaikum 👋
 
-I'm Findra, a **Full-Stack Developer** and **Open-Source Contributor**.
+I'm Findra, a **Full-Stack Developer** and **Open-Source Advocate**.
 
 I am passionate about writing clean code, designing robust system architectures, and contributing to the open-source community.
 
